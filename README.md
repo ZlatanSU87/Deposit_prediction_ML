@@ -58,7 +58,7 @@
 ## Установка проекта
 
 ```
-git clone https://github.com/ZlatanSU87/HH_Data_Analytics
+git clone https://github.com/ZlatanSU87/Deposit_prediction_ML
 ```
 
 ## Использование
